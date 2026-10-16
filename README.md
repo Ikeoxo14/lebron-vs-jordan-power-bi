@@ -5,7 +5,7 @@ I built this Power BI report to compare LeBron James and Michael Jordan using NB
 **Author:** [Ike Okoroafor](https://github.com/Ikeoxo14)  
 **Tools:** Microsoft Excel, Power Query, Power BI Desktop, DAX
 
-[View the report PDF](LeBron_vs_Jordan.pdf) · [Download the Power BI report](LeBron_vs_Jordan.pbix) · [Download the Excel source](LeBron_vs_Jordan_Season_Data.xlsx)
+[View the report PDF](LeBron_vs_Jordan.pdf.) · [Download the Power BI report](LeBron_vs_Jordan.pbix) · [Download the Excel source](LeBron_vs_Jordan_Season_Data.xlsx)
 
 ## Question
 
